@@ -3,7 +3,7 @@
 
 ## Deployed Link
 ```
-https://payment-page-orcin.vercel.app/
+https://edoyodpayment.netlify.app/
 ```
 
 ## How to get started
