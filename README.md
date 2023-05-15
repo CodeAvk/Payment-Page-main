@@ -1,5 +1,5 @@
 # Payment Page
-> Create a `payment page` as per the design provided below in figma 
+
 
 ## Deployed Link
 ```
