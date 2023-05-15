@@ -13,9 +13,11 @@ npm start
 ```
 
 ## Technologies Used :
-
-- ReactJS 
+- HTML
 - CSS
+- JavaScript
+- ReactJS 
+
 
 
 ## Features :
